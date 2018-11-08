@@ -13,25 +13,25 @@ Time spent: **X** hours spent in total
     - Fixed in version: 4.2.1
   - [x] GIF Walkthrough: secondexploit
   - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  - [x] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. Title: WordPress 3.3-4.7.4 - Large File Upload Error XSS
-  - [ ] Summary: 
+  - [x] Summary: 
     - Vulnerability types:XSS
     - Tested in version:4.2
     - Fixed in version: 4.2.15
-  - [ ] GIF Walkthrough: firstexploit
+  - [x] GIF Walkthrough: firstexploit
   - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  - [x] Affected source code:
     - [Link 1](https://wpvulndb.com/vulnerabilities/8819)
 1. Title: WordPress 2.5-4.6 - Authenticated Stored Cross-Site Scripting via Image Filename
-  - [ ] Summary: 
+  - [x] Summary: 
     - Vulnerability types:XSS
     - Tested in version:4.2
     - Fixed in version: 4.2.10
-  - [ ] GIF Walkthrough: thirdexploit
+  - [x] GIF Walkthrough: thirdexploit
   - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  - [x] Affected source code:
     - [Link 1](https://wpvulndb.com/vulnerabilities/8615)
 1. (Optional) Vulnerability Name or ID
   - [ ] Summary: 
